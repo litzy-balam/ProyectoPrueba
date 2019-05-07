@@ -23,7 +23,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="58dp"
         android:layout_marginBottom="45dp"
-        android:background="#CCFF"
+        android:background="#000"
         android:text="Button" />
 
 </RelativeLayout>
