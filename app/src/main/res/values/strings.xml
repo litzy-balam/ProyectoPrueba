@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ProyectoPrueba</string>
+    <string name="button">Button</string>
+    <string name="testigos_de_noe">Testigos De Noé</string>
 </resources>
