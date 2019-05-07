@@ -27,4 +27,16 @@
         app:srcCompat="@drawable/imagine"
         android:contentDescription="@string/todo" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="31dp"
+        android:layout_marginEnd="34dp"
+        android:layout_toEndOf="@+id/imageView"
+        android:text="@string/hola" />
+
 </RelativeLayout>
